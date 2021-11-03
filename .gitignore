@@ -1,3 +1,10 @@
+### macOS ###
+.DS_Store
+.VolumeIcon.icns
+.fseventsd
+Icon^M^M
+Icon^M
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
